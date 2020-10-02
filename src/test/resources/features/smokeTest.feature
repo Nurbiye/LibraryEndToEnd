@@ -1,4 +1,4 @@
-@ELW-130
+@ELW-130 @smoke_test
 Feature: Smoke test
 
 	#User can not get token with invalid credentials on api
